@@ -43,7 +43,7 @@ body{
       color: #fff
     }
 
-.student-list{}
+
 
   .student-item{
     margin: 0 0 20px 0;
@@ -117,3 +117,6 @@ body{
       background-color: #4ba6c3;
       color: #fff;
     }
+    /* li:nth-child(10n+0) {
+      display: none;
+    } */
